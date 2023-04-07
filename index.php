@@ -110,31 +110,6 @@
             <button id="cnl"><i class="fas fa-cancel"></i></button>
         </div>
     </div>
-    <div class="developers-cont" id="devs-sec">
-        <h3>Group Members</h3>
-        <div class="developers">
-
-            <div class="dev">
-                <div><img src="assets/images/fuad.jpg" /></div>
-                <h4>Fuad Hyredin</h4>
-                <p>Programmer, Coder</p>
-                <p>RCD/1316/2012</p>
-            </div>
-            <div class="dev">
-                <div><img src="assets/images/zola.jpg" /></div>
-                <h4>Zelalem Desta</h4>
-                <p>Programmer, Graphic designer</p>
-                <p>RCD/1347/2012</p>
-            </div>
-            
-            <div class="dev">
-                <div><img src="assets/images/milla.jpg" /></div>
-                <h4>Milliyard Abebaw</h4>
-                <p>Programmer</p>
-                <p>RCD/1332/2012</p>
-            </div>
-        </div>
-    </div>
     <?php include "pages/partials/footer.php"; ?>
     <script src="assets/js/script.js?<?php echo date('l jS \of F Y h:i:s A'); ?>"></script>
 </body>
